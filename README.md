@@ -1,0 +1,2 @@
+# komal
+practice in hacktober
